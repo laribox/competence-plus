@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9192E2EC-C615-41FF-89D9-34D5B589FBAD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CompetancePlus</RootNamespace>
+    <AssemblyName>CompetancePlus</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationWinForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationWinForm.Designer.cs">
+      <DependentUpon>ApplicationWinForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BAL\PFilieres\FiliereBAO.cs" />
+    <Compile Include="BAL\PGroupes\GroupeBAO.cs" />
+    <Compile Include="BAL\PModues\ModulesBAO.cs" />
+    <Compile Include="BAL\PStagiaires\StagiaireBAO.cs" />
+    <Compile Include="DAL\PFilieres\FiliereDAO.cs" />
+    <Compile Include="DAL\PGroupes\GroupeDAO.cs" />
+    <Compile Include="DAL\PModules\ModulesDAO.cs" />
+    <Compile Include="DAL\PStagiaires\StagiaireDAO.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Outils\IGestion.cs" />
+    <Compile Include="Outils\MyConnection.cs" />
+    <Compile Include="PresentationWinForm\PStagiaires\FormStagiaireInscription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationWinForm\PStagiaires\FormStagiaireInscription.designer.cs">
+      <DependentUpon>FormStagiaireInscription.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationWinForm\PStagiaires\FormGestionConfirmation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationWinForm\PStagiaires\FormGestionConfirmation.designer.cs">
+      <DependentUpon>FormGestionConfirmation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationWinForm\PStagiaires\FormStagiaireConfirmerInscription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationWinForm\PStagiaires\FormStagiaireConfirmerInscription.designer.cs">
+      <DependentUpon>FormStagiaireConfirmerInscription.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationWinForm\PStagiaires\FormStagiaireUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationWinForm\PStagiaires\FormStagiaireUpdate.designer.cs">
+      <DependentUpon>FormStagiaireUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="VO\PFilieres\Filiere.cs" />
+    <Compile Include="VO\PGroupes\Groupe.cs" />
+    <Compile Include="VO\PModules\Module.cs" />
+    <Compile Include="VO\PStagiaires\Stagiaire.cs" />
+    <EmbeddedResource Include="ApplicationWinForm.resx">
+      <DependentUpon>ApplicationWinForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationWinForm\PStagiaires\FormStagiaireInscription.resx">
+      <DependentUpon>FormStagiaireInscription.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationWinForm\PStagiaires\FormGestionConfirmation.resx">
+      <DependentUpon>FormGestionConfirmation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationWinForm\PStagiaires\FormStagiaireConfirmerInscription.resx">
+      <DependentUpon>FormStagiaireConfirmerInscription.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationWinForm\PStagiaires\FormStagiaireUpdate.resx">
+      <DependentUpon>FormStagiaireUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\DataSources\Filiere.datasource" />
+    <None Include="Properties\DataSources\Groupe.datasource" />
+    <None Include="Properties\DataSources\Stagiaire.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="VO\ClassDiagramVO.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="PresentationWinForm\PGroupes\" />
+    <Folder Include="PresentationWinForm\PModules\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\CompétencePlus.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\Profile.png" />
+    <None Include="Resources\Delete.png" />
+    <None Include="Resources\Update.png" />
+    <None Include="Resources\confirm.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,40 @@
+C:\Users\PiloteDev\Desktop\Projet - GestionPédagogi\Application\CompetancePlus\CompetancePlus\bin\Debug\bin\Debug\CompétencePlus.accdb
+C:\Users\PiloteDev\Desktop\Projet - GestionPédagogi\Application\CompetancePlus\CompetancePlus\bin\Debug\CompetancePlus.exe
+C:\Users\PiloteDev\Desktop\Projet - GestionPédagogi\Application\CompetancePlus\CompetancePlus\bin\Debug\CompetancePlus.pdb
+C:\Users\PiloteDev\Desktop\Projet - GestionPédagogi\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PiloteDev\Desktop\Projet - GestionPédagogi\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\CompetancePlus.ApplicationWinForm.resources
+C:\Users\PiloteDev\Desktop\Projet - GestionPédagogi\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\CompetancePlus.Properties.Resources.resources
+C:\Users\PiloteDev\Desktop\Projet - GestionPédagogi\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PiloteDev\Desktop\Projet - GestionPédagogi\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PiloteDev\Desktop\Projet - GestionPédagogi\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\CompetancePlus.exe
+C:\Users\PiloteDev\Desktop\Projet - GestionPédagogi\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\CompetancePlus.pdb
+C:\Users\PiloteDev\Desktop\Projet - GestionPédagogi\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\GestionStagiaire.PackageStagiaire.FormStagiaireConfirmerInscription.resources
+C:\Users\PiloteDev\Desktop\Projet - GestionPédagogi\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\GestionStagiaire.PackageStagiaire.FormStagiaireInscription.resources
+C:\Users\Abdellah\Desktop\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\CompetancePlus.exe
+C:\Users\Abdellah\Desktop\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\CompetancePlus.pdb
+C:\Users\Abdellah\Desktop\Application\CompetancePlus\CompetancePlus\bin\Debug\bin\Debug\CompétencePlus.accdb
+C:\Users\Abdellah\Desktop\Application\CompetancePlus\CompetancePlus\bin\Debug\CompetancePlus.exe
+C:\Users\Abdellah\Desktop\Application\CompetancePlus\CompetancePlus\bin\Debug\CompetancePlus.pdb
+C:\Users\Abdellah\Desktop\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\CompetancePlus.ApplicationWinForm.resources
+C:\Users\Abdellah\Desktop\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\GestionStagiaire.PackageStagiaire.FormStagiaireConfirmerInscription.resources
+C:\Users\Abdellah\Desktop\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\CompetancePlus.csproj.GenerateResource.Cache
+C:\Users\Abdellah\Desktop\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\GestionStagiaire.PackageStagiaire.FormGestionConfirmation.resources
+C:\Users\Abdellah\Desktop\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\CompetancePlus.Properties.Resources.resources
+C:\Users\Abdellah\Desktop\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\GestionStagiaire.MenuApplication.resources
+C:\Users\Abdellah\Desktop\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\CompetancePlus.csprojResolveAssemblyReference.cache
+C:\Users\Abdellah\Desktop\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\CompetancePlus.PresentationWinForm.PStagiaires.FormUpdateStagiaire.resources
+C:\Users\Abdellah\Desktop\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\GestionStagiaire.PackageStagiaire.FormStagiaireInscription.resources
+D:\MyFiles\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\CompetancePlus.ApplicationWinForm.resources
+D:\MyFiles\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\GestionStagiaire.MenuApplication.resources
+D:\MyFiles\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\GestionStagiaire.PackageStagiaire.FormStagiairesInscription.resources
+D:\MyFiles\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\GestionStagiaire.PackageStagiaire.FormGestionConfirmation.resources
+D:\MyFiles\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\GestionStagiaire.PackageStagiaire.FormStagiaireConfirmerInscription.resources
+D:\MyFiles\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\GestionStagiaire.PackageStagiaire.FormStagiaireUpdate.resources
+D:\MyFiles\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\CompetancePlus.Properties.Resources.resources
+D:\MyFiles\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\CompetancePlus.csproj.GenerateResource.Cache
+D:\MyFiles\Application\CompetancePlus\CompetancePlus\bin\Debug\bin\Debug\CompétencePlus.accdb
+D:\MyFiles\Application\CompetancePlus\CompetancePlus\bin\Debug\CompetancePlus.exe
+D:\MyFiles\Application\CompetancePlus\CompetancePlus\bin\Debug\CompetancePlus.pdb
+D:\MyFiles\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\CompetancePlus.exe
+D:\MyFiles\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\CompetancePlus.pdb
+D:\MyFiles\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\CompetancePlus.csprojResolveAssemblyReference.cache
