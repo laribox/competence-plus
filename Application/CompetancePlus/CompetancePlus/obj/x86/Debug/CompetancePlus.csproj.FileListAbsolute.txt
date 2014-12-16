@@ -38,3 +38,5 @@ D:\MyFiles\Application\CompetancePlus\CompetancePlus\bin\Debug\CompetancePlus.pd
 D:\MyFiles\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\CompetancePlus.exe
 D:\MyFiles\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\CompetancePlus.pdb
 D:\MyFiles\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\CompetancePlus.csprojResolveAssemblyReference.cache
+C:\Users\ESSARRAJ\Documents\GitHub\competence-plus\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\CompetancePlus.exe
+C:\Users\ESSARRAJ\Documents\GitHub\competence-plus\Application\CompetancePlus\CompetancePlus\obj\x86\Debug\CompetancePlus.pdb
