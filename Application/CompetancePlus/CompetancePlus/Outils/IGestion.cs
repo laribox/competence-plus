@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace CompetancePlus.Outils
+namespace CompetencePlus.Outils
 {
     interface IGestion<Obj>
     {

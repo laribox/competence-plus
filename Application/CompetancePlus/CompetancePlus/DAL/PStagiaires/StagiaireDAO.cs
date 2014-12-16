@@ -5,8 +5,9 @@ using System.Text;
 using TP10.Service;
 using System.Windows.Forms;
 using CompetancePlus.VO.PStagiaires;
-using CompetancePlus.Outils;
 using System.Data.OleDb;
+using CompetencePlus.Outils;
+
 
 namespace CompetancePlus.DAL.PStagiaires
 {
